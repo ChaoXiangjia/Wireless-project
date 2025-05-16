@@ -1,3 +1,3 @@
 # Wireless-project
-Chaoxiang Jia \n
+Chaoxiang Jia  
 Zuheng Huang
